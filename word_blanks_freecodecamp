@@ -1,0 +1,15 @@
+
+
+```js
+function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+  var result = "";
+  // Your code below this line
+result = "The " + myNoun + " " + myVerb +" "+ myAdverb + " through the " + myAdjective + " bush" ; 
+
+  // Your code above this line
+  return result;
+}
+
+// Change the words here to test your function
+wordBlanks("cat", "big", "ran", "quickly");
+```
